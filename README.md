@@ -5,7 +5,7 @@
 
 ### Full-Stack Developer | ERP Developer | Web & Mobile Apps
 <div align="center">
-  <img src="github-banner.png"
+  <img src="/github-banner.png"
        alt="Daniel Sheleme Bekele - Full-Stack Developer | ERP Developer"
        width="100%" />
 </div>
