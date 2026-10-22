@@ -4,7 +4,11 @@
 # Daniel Sheleme Bekele
 
 ### Full-Stack Developer | ERP Developer | Web & Mobile Apps
-
+<div align="center">
+  <img src="assets/github-banner.png"
+       alt="Daniel Sheleme Bekele - Full-Stack Developer | ERP Developer"
+       width="100%" />
+</div>
 Building useful digital products for businesses, schools, and agriculture.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-2563EB?style=for-the-badge)](https://daniport.vercel.app)
